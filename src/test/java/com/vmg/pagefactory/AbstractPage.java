@@ -50,6 +50,9 @@ public class AbstractPage  {
 		return getPageTitle(driver).contains(expectedPageTitle);
 
 	}
+	public void testmethod(){
+		
+	}
 
 	
 
