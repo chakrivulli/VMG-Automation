@@ -1,0 +1,14 @@
+{
+	"server": "hub-cloud.browserstack.com",
+	"user": "michaeljames24",
+	"key": "AezYipdyyWMXv6n8bdB7",
+	"capabilities": {
+		"name": "Bstack-[Junit] Local Test",
+		"browserstack.local": true
+	},
+	"environments": [
+		{
+			"browser": "chrome"
+		}
+	]
+}
